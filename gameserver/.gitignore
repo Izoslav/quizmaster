@@ -33,3 +33,6 @@
 
 # Project files
 .idea
+
+# Cmake directories
+cmake-build-*
